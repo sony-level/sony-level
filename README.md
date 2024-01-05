@@ -34,10 +34,10 @@ Cybersecurity student
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                                 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/docker-icon/docker-icon-17.jpg" width="36" height="36" alt="Docker" /></a>
                                 <a href="https://goharbor.io/" target="_blank" rel="noreferrer"><img src="https://goharbor.io/img/logos/harbor-icon-color.png" width="36" height="36" alt="Harbor" /></a>
-                                <a href="https://www.mycompiler.io/fr/online-c-compiler" target="_blank" rel="noreferrer">
-                                     <img src="https://th.bing.com/th/id/R.f7a843fc1015a8c1391637908104b4a6?rik=VI%2bqDthME0o0JQ&pid=ImgRaw&r=0" width="36" height="36" alt="C" /></a>
+                               <a href="https://www.mycompiler.io/fr/online-c-compiler" target="_blank" rel="noreferrer">
+                                     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://angular.io/" target="_blank" rel="noreferrer">
-                                    <img src="https://1.bp.blogspot.com/-MwJI22_Ek_0/XJQEjL9WGjI/AAAAAAAAJSs/Kd9WAGTItDoTRoaIFLE8qwOrj3STIMbfQCK4BGAYYCw/s640/logo%2Bangular%2Bicon.png" width="36" height="36" alt="Angular" /></a>
+                                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Angular-Light.svg" width="36" height="36" alt="Angular" /></a>
                                 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
                                       <img src="https://th.bing.com/th/id/OIP.Q6qimyXZ5meSj4QreC1xXgHaEV?rs=1&pid=ImgDetMain" width="36" height="36" alt="Wireshark" />
                                 </a>
@@ -47,8 +47,18 @@ Cybersecurity student
                                 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
                                     <img src="https://th.bing.com/th/id/OIP.b1eX9rmZaovEBLHVrDscbwAAAA?rs=1&pid=ImgDetMain" width="36" height="36" alt="Bash" />
                                 </a>
+                                 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+                                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg" width="36" height="36" alt="Bash" />
+                                </a>
+                                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" width="36" height="36" alt="Bash" />
+                                </a>
+                                  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" width="36" height="36" alt="Bash" />
+                                </a>
 
 </p>
+
                     
 ### Socials                  
                
@@ -66,3 +76,5 @@ Cybersecurity student
 <a href="http://www.github.com/sony-level"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sony-level&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/sony-level" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sony-level&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
