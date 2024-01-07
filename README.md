@@ -69,9 +69,9 @@ Cybersecurity student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sony-level"><img src="https://github-readme-stats.vercel.app/api?username=sony-level&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sony-level's GitHub stats" /></a>
+[!s[sony level github stats](https://github-readme-stats.vercel.app/api?username=sony-level&show_icons=true)]
 
-[![Anurag's github stats](https://github-readme-stats.ver
+
 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sony-level" />
