@@ -69,9 +69,7 @@ Cybersecurity student
 
 <b>My GitHub Stats</b>
 
-[!s[sony level github stats](https://github-readme-stats.vercel.app/api?username=sony-level&show_icons=true)]
-
-
+<a href="http://www.github.com/sony-level"><img src="https://github-readme-stats.vercel.app/api?username=sony-level&show_icons=true" alt="sony-level's GitHub stats"></a>
 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sony-level" />
