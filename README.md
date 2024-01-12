@@ -56,7 +56,6 @@ Cybersecurity student
 
 </p>
 
-                    
 ### Socials                  
                
 <p align="left">    
