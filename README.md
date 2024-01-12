@@ -53,7 +53,6 @@ Cybersecurity student
                                  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                                     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" width="36" height="36" alt="Bash" />
                                 </a>
-                                 
 
 </p>
 
