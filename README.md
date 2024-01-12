@@ -78,9 +78,7 @@ Cybersecurity student
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sony-level" />
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 
+
+
   <a href="https://github.com/sony-level" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sony-level&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
-
-
-
- 
