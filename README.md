@@ -54,11 +54,11 @@ Cybersecurity student
                                     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" width="36" height="36" alt="Bash" />
                                 </a>
 
-</p>
+</p> 
 
-### Socials                   
-               
-<p align="left">    
+### Socials
+
+<p align="left">
                       <a href="https://www.github.com/sony-level" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>          
                       <a href="https://www.linkedin.com/in/level-sony" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                       <a href="https://twitter.com/sony_level" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
