@@ -45,7 +45,7 @@ Cybersecurity student
                                      <img src="https://th.bing.com/th/id/OIP.0THXVLA09UJD-XW5j562DAHaI5?rs=1&pid=ImgDetMain" width="36" height="36" alt="Linux" />
                                 </a>
                                 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-                                    <img src="https://th.bing.com/th/id/OIP.b1eX9rmZaovEBLHVrDscbwAAAA?rs=1&pid=ImgDetMain" width="36" height="36" alt="Bash" />
+                                    <img src="https://th.bing.com/th/id/OIP.b1eX9rmZaovEBLHVrDscbwAAAA?rs=1&pid=ImgDetMain" width="36" height="36" alt="Bash" /> 
                                 </a>
                                  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
                                     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Rust.svg" width="36" height="36" alt="Bash" />
