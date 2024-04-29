@@ -20,7 +20,7 @@ Cybersecurity student
 ---------------------------------
 *   🌱  I’m currently learning cybersecurity
 *   🌍  I'm based in Toulon
-*   🖥️  Here is the start of my blog [My website](https://sony-level.github.io/)
+*   🖥️  Here is the start of my blog [My website](https://level-sony.fr/)
 *   ✉️  You can contact me at [contact@level-sony.fr](sony-dilane-level.mbango@isen.yncrea.fr)
 
 ### Skills
