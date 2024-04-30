@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 Cybersecurity student
 ---------------------------------
-*   🌱  I’m currently learning cybersecurity
-*   🌍  I'm based in Toulon
+*   🌱  I’m currently learning 
+*   🌍  I'm based in world
 *   🖥️  Here is the start of my blog [My website](https://level-sony.fr/)
 *   ✉️  You can contact me at [contact@level-sony.fr](sony-dilane-level.mbango@isen.yncrea.fr)
 
@@ -68,11 +68,6 @@ Cybersecurity student
 
 <b>My GitHub Stats</b>
 
-<p align="left">
-<a href="https://github.com/sony-level">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=sony-level&count_private=true&show_icons=true&theme=tokyonight"/>
-</a>
-</p>
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sony-level" />
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
