@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ---------------------------------
 *   🌱  I’m currently learning 
-*   🌍  I'm based in 127.0.0.1
-*   🖥️  Here is the start of my blog [My website](https://level-sony.fr/)
+*   🌍   127.0.0.1
+*   🖥️  Here is the start of my blog [My website](https://blogcyber.level.ovh/)
 *   ✉️  You can contact me at [contact@level-sony.fr](sony-dilane-level.mbango@isen.yncrea.fr)
 
 ### Skills
