@@ -22,12 +22,4 @@ Here are some ideas to get you started:
 *   🖥️  Here is the start of my blog [My website](https://blogcyber.level.ovh/)
 *   ✉️  You can contact me at [contact@level-sony.fr](sony-dilane-level.mbango@isen.yncrea.fr)
 
-
-
-### Socials
-
-<p align="left">
-                                
-                      <a href="https://www.linkedin.com/in/level-sony" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                      <a href="https://twitter.com/sony_level" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
                      
