@@ -63,11 +63,3 @@ Here are some ideas to get you started:
                       <a href="https://www.linkedin.com/in/level-sony" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                       <a href="https://twitter.com/sony_level" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
                      
-### Badges 
-
-<b>My GitHub Stats</b>
-
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sony-level" />
-  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
-</p>
