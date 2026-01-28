@@ -31,4 +31,4 @@ Always open to learning, contributing, and collaborating.
 
 🐦 Follow me on X: [x.com/sony_level](https://x.com/sony_level)
 
-🎵 Listen to my playlist: [▶️ Play Now](https://link.deezer.com/s/32hUi6bwNKfgO5slMJ5xD)
+🎵 Listen to my music: [Play Now](https://link.deezer.com/s/32hUi6bwNKfgO5slMJ5xD)
