@@ -31,4 +31,13 @@ Always open to learning, contributing, and collaborating.
 
 🐦 Follow me on X: [x.com/sony_level](https://x.com/sony_level)
 
-🎵 My Deezer Playlist: [Listen Now](hhttps://link.deezer.com/s/32hUi6bwNKfgO5slMJ5xD)
+🎵 My Deezer Playlist: [Listen Now](https://link.deezer.com/s/32hUi6bwNKfgO5slMJ5xD)
+
+<iframe
+  src="https://www.deezer.com/en/plugins/player?playlist=32hUi6bwNKfgO5slMJ5xD&format=classic&autoplay=false&playlist=true&color=007FEB"
+  width="700"
+  height="350"
+  frameborder="0"
+  allowtransparency="true"
+  allow="encrypted-media; clipboard-write">
+</iframe>
