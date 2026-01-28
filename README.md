@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Level Sony
 
-<!--
-**sony-level/sony-level** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software developer passionate about building secure, scalable, and intelligent applications.
 
-Here are some ideas to get you started:
+## 💡 What I’m into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend development & system architecture
+- Cloud, DevOps & DevSecOps
+- Cybersecurity, IAM, best practices
+- Artificial Intelligence & automation
+- Open-source and continuous learning
+
+## 🛠️ Tech I work with
+
+- Rust, Python, JavaScript / TypeScript
+- Docker, Kubernetes, GitHub Actions
+- PostgreSQL, Supabase, Keycloak
+- AI tools, automation pipelines
+- Linux & cloud-native tools
+
+## 📂 Projects
+
+I build projects focused on **security**, **performance**, **AI-driven features**, and **clean architecture**.  
+Feel free to explore my repositories or open an issue to discuss.
+
+## 🤝 Open source
+
+Always open to learning, contributing, and collaborating.
+
+📫 Reach me here on GitHub
+
+🐦 Follow me on X: [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.co/sony_level)
