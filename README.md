@@ -29,4 +29,4 @@ Always open to learning, contributing, and collaborating.
 
 📫 Reach me here on GitHub
 
-🐦 Follow me on X: [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.co/sony_level)
+🐦 Follow me on X: [x.com/sony_level](https://x.com/sony_level)
