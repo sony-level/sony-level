@@ -31,8 +31,4 @@ Always open to learning, contributing, and collaborating.
 
 🐦 Follow me on X: [x.com/sony_level](https://x.com/sony_level)
 
-🎵 My Music Player:
-
-<figure class="video_container">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.deezer.com/en/plugins/player?playlist=32hUi6bwNKfgO5slMJ5xD&format=classic&autoplay=false&playlist=true&color=007FEB" style="border: 1px solid black"></iframe>
-</figure>
+🎵 Listen to my playlist: [▶️ Play Now](https://link.deezer.com/s/32hUi6bwNKfgO5slMJ5xD)
