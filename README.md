@@ -30,3 +30,5 @@ Always open to learning, contributing, and collaborating.
 📫 Reach me here on GitHub
 
 🐦 Follow me on X: [x.com/sony_level](https://x.com/sony_level)
+
+🎵 My Deezer Playlist: [Listen Now](hhttps://link.deezer.com/s/32hUi6bwNKfgO5slMJ5xD)
