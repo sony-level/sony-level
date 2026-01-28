@@ -10,11 +10,11 @@
 - Artificial Intelligence & automation
 - Open-source and continuous learning
 
-## 🛠️ Tech I work with
+## 🛠️ Tech I work with Now
 
 - Rust, Python, JavaScript / TypeScript
-- Docker, Kubernetes, GitHub Actions
-- PostgreSQL, Supabase, Keycloak
+- Docker, Kubernetes, GitHub Actions, Ansible, Google Cloud , Azure
+- PostgreSQL, Keycloak, Coolify, Docploy
 - AI tools, automation pipelines
 - Linux & cloud-native tools
 
