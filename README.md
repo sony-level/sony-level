@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Level Sony
 
-🚀 Software developer passionate about building secure, scalable, and intelligent applications.
+🚀 Software developer passionate about building secure, scalable, and intelligent applications. 
 
 ## 💡 What I’m into
 
