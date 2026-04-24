@@ -33,6 +33,3 @@ Always open to learning, contributing, and collaborating.
 
 🎵 Listen to my music: [Play Now](https://link.deezer.com/s/32hUi6bwNKfgO5slMJ5xD)
 
-<a href="https://widget.deezer.com/widget/dark/artist/303472051/top_tracks">
-  <img src="https://via.placeholder.com/800x310.png?text=Ma+playlist+Deezer" alt="Ma playlist Deezer" />
-</a>
