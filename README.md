@@ -32,3 +32,7 @@ Always open to learning, contributing, and collaborating.
 🐦 Follow me on X: [x.com/sony_level](https://x.com/sony_level)
 
 🎵 Listen to my music: [Play Now](https://link.deezer.com/s/32hUi6bwNKfgO5slMJ5xD)
+
+<a href="https://widget.deezer.com/widget/dark/artist/303472051/top_tracks">
+  <img src="https://via.placeholder.com/800x310.png?text=Ma+playlist+Deezer" alt="Ma playlist Deezer" />
+</a>
