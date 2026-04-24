@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Level Sony
 
-🚀 Software developer passionate about building secure, scalable, and intelligent applications. 
+🚀 Software Engineer passionate about building secure, scalable, and intelligent applications. 
 
 ## 💡 What I’m into
 
 - Backend development & system architecture
 - Cloud, DevOps & DevSecOps
-- Cybersecurity, IAM, best practices
+- Cybersecurity, best practices
 - Artificial Intelligence & automation
 - Open-source and continuous learning
 
