@@ -1,33 +1,33 @@
 # 👋 Hi, I'm Level Sony
 
-🚀 Software Engineer passionate about building secure, scalable, and intelligent applications. 
+🚀 Future Software Engineer focused on building secure, scalable, and intelligent systems.
 
-## 💡 What I’m into
+## 💡 What I work on
 
-- Backend development & system architecture
+- Backend engineering & system architecture
 - Cloud, DevOps & DevSecOps
-- Cybersecurity, best practices
-- Artificial Intelligence & automation
-- Open-source and continuous learning
+- Cybersecurity, IAM, and secure-by-design practices
+- Artificial intelligence & automation
+- Open source and continuous learning
 
-## 🛠️ Tech I work with Now
+## 🛠️ Tech I use
 
 - Rust, Python, JavaScript / TypeScript
-- Docker, Kubernetes, GitHub Actions, Ansible, Google Cloud , Azure
+- Docker, Kubernetes, GitHub Actions, Ansible, Google Cloud, Azure
 - PostgreSQL, Keycloak, Coolify, Docploy
-- AI tools, automation pipelines
-- Linux & cloud-native tools
+- AI tools and automation pipelines
+- Linux and cloud-native tooling
 
 ## 📂 Projects
 
-I build projects focused on **security**, **performance**, **AI-driven features**, and **clean architecture**.  
-Feel free to explore my repositories or open an issue to discuss.
+I build projects centered on **security**, **performance**, **AI-powered features**, and **clean architecture**.  
+Feel free to explore my repositories or open an issue if you'd like to connect.
 
 ## 🤝 Open source
 
 Always open to learning, contributing, and collaborating.
 
-📫 Reach me here on GitHub 
+📫 Reach me here on GitHub
 
 🐦 Follow me on X: [x.com/sony_level](https://x.com/sony_level)
 
